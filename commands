@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Commands
+
+# basename --> it will print the last name
+# dirname  --> it will print the begining of the name
+
